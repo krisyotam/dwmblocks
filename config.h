@@ -20,7 +20,7 @@
 // Blocks from krisyotam's setup - async version
 #define BLOCKS(X)                                    \
     X("", "cat /tmp/recordingicon 2>/dev/null", 0, 9) \
-    X("", "sb-playerctl", 0, 11)                     \
+    X("", "sb-dashboard", 0, 11)                     \
     X("", "sb-pacpackages", 0, 8)                    \
     X("", "sb-news", 0, 6)                           \
     X("", "sb-torrent", 20, 7)                       \
