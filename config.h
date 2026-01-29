@@ -28,7 +28,6 @@
     X("", "sb-mailbox", 180, 12)                     \
     X("", "sb-pacpackages", 0, 8)                    \
     X("", "sb-disk", 60, 21)                         \
-    X("", "sb-temps", 30, 20)                        \
     X("", "sb-nettraf", 1, 16)                       \
     X("", "sb-internet", 5, 4)                       \
     X("", "sb-volume", 0, 10)                        \
