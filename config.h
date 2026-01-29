@@ -21,7 +21,7 @@
 #define BLOCKS(X)                                    \
     X("", "sb-aurora", 3600, 19)                     \
     X("", "sb-doppler", 0, 13)                       \
-    X("", "sb-forecast", 18000, 5)                   \
+    X("", "sb-forecast", 30, 5)                   \
     X("", "cat /tmp/recordingicon 2>/dev/null", 0, 9) \
     X("", "sb-torrent", 20, 7)                       \
     X("", "sb-news", 0, 6)                           \
